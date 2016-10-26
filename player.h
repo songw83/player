@@ -50,7 +50,7 @@
 #include <QJsonObject>
 
 #include "FeelClothControlHandle.h"
-#include "../flagTool/controlfile.h"
+#include "controlfile.h"
 
 QT_BEGIN_NAMESPACE
 class QAbstractItemView;
